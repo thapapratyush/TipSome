@@ -11,7 +11,7 @@ Time spent: 3 hours spent in total
 The following **required** functionality is complete:
 
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [] Settings page to change the default tip percentage.
+* [ ] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
 * [ ] UI animations
@@ -21,13 +21,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Calculates divided cost for each head.
+- [] Calculates divided cost for each head.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/open?id=0B-1YGZRp8Zn-RkhpN1RSdFV4eWs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/tIg2T' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
