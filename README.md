@@ -21,13 +21,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [] Calculates divided cost for each head.
+- [ ] Calculates divided cost for each head.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='blob:http://imgur.com/67635fcf-66bd-4267-99cb-48dd1a59170a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./TipsomeUITests/codepath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
